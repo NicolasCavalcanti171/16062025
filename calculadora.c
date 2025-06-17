@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "funcoes.h"  // Só use se estiver separado
+#include "funcoes.h"
 
 int main() {
     float n1, n2, resultado;
